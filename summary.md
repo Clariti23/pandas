@@ -14,4 +14,4 @@
 
 6. `pd.set_option('display.max_columns', 85)` makes it so that running `df` looks a bit nicer--can scroll horizontally.
 
-7. A DataFrame is kind of like a dictionary of lists.
+7. A DataFrame is kind of like a dictionary of lists: columns with many rows. A series is like all the rows for one column.
